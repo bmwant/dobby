@@ -1,0 +1,23 @@
+{
+  "name": "dobby",
+  "version": "1.0.0",
+  "description": "a simple js game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmwant/dobby.git"
+  },
+  "keywords": [
+    "svg",
+    "js"
+  ],
+  "author": "Misha Behersky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmwant/dobby/issues"
+  },
+  "homepage": "https://github.com/bmwant/dobby#readme"
+}
