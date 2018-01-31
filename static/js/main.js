@@ -5,5 +5,9 @@ $(function() {
       console.log('Should be good');
     } else {
       alert('SVG not supported');
+      return;
     }
+
+    var draw = SVG('image').size(640, 640);
+    var image = draw.image('/static/img/001_eye.svg');
 });
