@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/bmwant/dobby/issues"
   },
-  "homepage": "https://github.com/bmwant/dobby#readme"
+  "homepage": "https://github.com/bmwant/dobby#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "svg.js": "^2.6.3"
+  }
 }
