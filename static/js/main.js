@@ -15,6 +15,9 @@ $(function() {
         '/static/img/008_snow.svg'
     ];
 
+    var card = SVG('main-card');
+    var circle = card.circle(640).fill('#f06');
+
     $.each(images, function(index, value) {
         var imagePath = images[index];
         var imageBlockId = 'image' + index;
